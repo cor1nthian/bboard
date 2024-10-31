@@ -1,2 +1,3 @@
 # bboard
-Baseboard data getter
+Baseboard data getter  
+Скрпт получения данных материнской платы
