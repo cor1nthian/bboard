@@ -1,0 +1,2 @@
+# bboard
+Baseboard data getter
